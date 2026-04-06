@@ -96,7 +96,7 @@ O SiGEM tem como objetivo gerenciar as atividades de uma escola de música, perm
 
 ## Diagrama do Banco de Dados
 
-![Diagrama do Banco de Dados](docs/diagrama_banco_escola_musica_limpo.png)
+![Diagrama do Banco de Dados](docs/diagrama_banco_escola_musica.png)
 
 ---
 
